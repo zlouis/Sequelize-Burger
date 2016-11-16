@@ -36,7 +36,7 @@ router.get('/', function(req, res){
 router.get('/menu', function(req, res){
   Menu.findAll({})
     .then(function(data){
-      res.render('restaurantMenu', { itm: data });
+      res.render('restaurantmenu', { itm: data });
   });
 });
 
