@@ -1,5 +1,8 @@
 # Sequelize-Burger
 Burger app that allows user to select a burger or side and then 'devour' it. Remake of my original Burger app. This uses the Sequelize ORM rather than raw MySQL queries.
+
+https://sleepy-citadel-76954.herokuapp.com/
+
 ###Technologies used
 
 * Node.js
